@@ -103,7 +103,7 @@ td.expense{
 /* Footer */
 footer{
     text-align: center;
-    paddin:4rem 0 2rem;
+    padding:4rem 0 2rem;
     color: var(--color-dark-blue);
     opacity: 0.6;
 }
